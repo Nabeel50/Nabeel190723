@@ -2,18 +2,18 @@ button{
     float: right;
     background-color: rgb(229, 235, 229);
     font-size: 40px;
-    margin-left:100px;
+    margin-left:80px;
     color: rgb(250, 245, 245);
     background-color: rgb(43, 255, 0);
     padding: 30px;
 }
 h1{
     text-align: center;
-    margin-left: 800px;
-    margin-right: 800px;
+    margin-left: 500px;
+    margin-right: 500px;
     color: rgb(250, 246, 246);
     font-size: 80px;
-    border-style:dotted;
+    border-style:solid;
     border-color: rgb(245, 238, 238);
 }
 .imgMain{
@@ -28,7 +28,7 @@ p{
     font-size: 40px;
     color: aliceblue;
     margin-top: 80px;
-    margin-left: 30px;
+    margin-left: 50px;
     padding: 30px;
 }
 img{
